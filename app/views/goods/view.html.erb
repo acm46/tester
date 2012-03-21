@@ -1,0 +1,16 @@
+<table>
+	<tr>
+		<td><strong>Food Property</strong></td>
+		<td><strong>Numeric Value</strong></td>
+	</tr>
+	<% if (@result != nil) %>
+		<% @result.each do |aspect| %>
+			<% if (aspect.name != "text" && aspect.name != "type") %>
+				<tr>
+					<td><%= aspect.name %></td>
+					<td><%= aspect.content %></td>
+				</tr>
+			<% end %>
+		<% end %>
+	<% end %>
+</table>

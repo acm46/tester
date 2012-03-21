@@ -1,0 +1,518 @@
+<?xml version="1.0"?> 
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+	xmlns:owl="http://www.w3.org/2002/07/owl#" 
+	xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+	xmlns:dcterms="http://purl.org/dc/terms/" 
+	xmlns:dgtwc="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#" 
+	xmlns="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#" 
+	xml:base="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf" > 
+
+  <rdf:Description rdf:about="#entry1">
+    <potassium>24</potassium>
+    <beta_crypt>0</beta_crypt>
+    <calcium>24</calcium>
+    <panto_acid>0.11</panto_acid>
+    <iron>0.02</iron>
+    <sodium>576</sodium>
+    <fa_mono>21.021</fa_mono>
+    <vivit_d_iu>60</vivit_d_iu>
+    <copper>0</copper>
+    <gmwt_desc2>1 tbsp</gmwt_desc2>
+    <ash>2.11</ash>
+    <niacin>0.042</niacin>
+    <folic_acid>0</folic_acid>
+    <cholestrl>215</cholestrl>
+    <food_folate>3</food_folate>
+    <fa_sat>51.368</fa_sat>
+    <energ_kcal>717</energ_kcal>
+    <vit_b6>0.003</vit_b6>
+    <magnesium>2</magnesium>
+    <choline_tot>18.8</choline_tot>
+    <gmwt_desc1>1 cup</gmwt_desc1>
+    <vit_c>0</vit_c>
+    <lycopene>0</lycopene>
+    <ndb_no>01001</ndb_no>
+    <lut_zea>0</lut_zea>
+    <refuse_pct>0</refuse_pct>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <riboflavin>0.034</riboflavin>
+    <fiber_td>0</fiber_td>
+    <water>15.87</water>
+    <vit_b12>0.17</vit_b12>
+    <folate_tot>3</folate_tot>
+    <phosphorus>24</phosphorus>
+    <sugar_tot>0.06</sugar_tot>
+    <food_name>BUTTER,WITH SALT</food_name>
+    <alpha_carot>0</alpha_carot>
+    <manganese>0</manganese>
+    <gmwt_1>227</gmwt_1>
+    <carbohydrt>0.06</carbohydrt>
+    <zinc>0.09</zinc>
+    <retinol>671</retinol>
+    <gmwt_2>14.2</gmwt_2>
+    <folate_dfe>3</folate_dfe>
+    <fa_poly>3.043</fa_poly>
+    <vit_a_rae>684</vit_a_rae>
+    <selenium>1</selenium>
+    <protein>0.85</protein>
+    <lipid_tot>81.11</lipid_tot>
+    <vit_k>7</vit_k>
+    <thiamin>0.005</thiamin>
+    <vit_a_iu>2499</vit_a_iu>
+    <beta_carot>158</beta_carot>
+    <vit_d_mcg>1.5</vit_d_mcg>
+    <vit_e>2.32</vit_e>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry2">
+    <lycopene>0</lycopene>
+    <folate_tot>3</folate_tot>
+    <fa_sat>50.489</fa_sat>
+    <lut_zea>0</lut_zea>
+    <sugar_tot>0.06</sugar_tot>
+    <alpha_carot>0</alpha_carot>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <fiber_td>0</fiber_td>
+    <potassium>26</potassium>
+    <cholestrl>219</cholestrl>
+    <fa_mono>23.426</fa_mono>
+    <lipid_tot>81.11</lipid_tot>
+    <gmwt_2>9.4</gmwt_2>
+    <vit_k>7</vit_k>
+    <thiamin>0.005</thiamin>
+    <vit_a_iu>2499</vit_a_iu>
+    <carbohydrt>0.06</carbohydrt>
+    <zinc>0.05</zinc>
+    <beta_carot>158</beta_carot>
+    <retinol>671</retinol>
+    <food_name>BUTTER,WHIPPED,WITH SALT</food_name>
+    <folate_dfe>3</folate_dfe>
+    <beta_crypt>0</beta_crypt>
+    <calcium>24</calcium>
+    <vivit_d_iu>60</vivit_d_iu>
+    <fa_poly>3.012</fa_poly>
+    <vit_a_rae>684</vit_a_rae>
+    <selenium>1</selenium>
+    <protein>0.85</protein>
+    <copper>0.016</copper>
+    <ash>2.11</ash>
+    <folic_acid>0</folic_acid>
+    <food_folate>3</food_folate>
+    <energ_kcal>717</energ_kcal>
+    <vit_d_mcg>1.5</vit_d_mcg>
+    <vit_e>2.32</vit_e>
+    <phosphorus>23</phosphorus>
+    <panto_acid>0.11</panto_acid>
+    <manganese>0.004</manganese>
+    <vit_b12>0.13</vit_b12>
+    <gmwt_desc2>1 tbsp</gmwt_desc2>
+    <niacin>0.042</niacin>
+    <ndb_no>01002</ndb_no>
+    <gmwt_1>151</gmwt_1>
+    <refuse_pct>0</refuse_pct>
+    <sodium>827</sodium>
+    <vit_b6>0.003</vit_b6>
+    <riboflavin>0.034</riboflavin>
+    <iron>0.16</iron>
+    <magnesium>2</magnesium>
+    <choline_tot>18.8</choline_tot>
+    <gmwt_desc1>1 cup</gmwt_desc1>
+    <water>15.87</water>
+    <vit_c>0</vit_c>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry3">
+    <gmwt_1>205</gmwt_1>
+    <fa_mono>28.732</fa_mono>
+    <alpha_carot>0</alpha_carot>
+    <fiber_td>0</fiber_td>
+    <vit_b6>0.001</vit_b6>
+    <vit_e>2.8</vit_e>
+    <panto_acid>0.01</panto_acid>
+    <water>0.24</water>
+    <sodium>2</sodium>
+    <vit_b12>0.01</vit_b12>
+    <thiamin>0.001</thiamin>
+    <food_folate>0</food_folate>
+    <retinol>824</retinol>
+    <ndb_no>01003</ndb_no>
+    <gmwt_desc2>1 tbsp</gmwt_desc2>
+    <fa_poly>3.694</fa_poly>
+    <gmwt_2>12.8</gmwt_2>
+    <gmwt_desc1>1 cup</gmwt_desc1>
+    <vit_d_mcg>1.8</vit_d_mcg>
+    <copper>0.001</copper>
+    <phosphorus>3</phosphorus>
+    <vit_k>8.6</vit_k>
+    <choline_tot>22.3</choline_tot>
+    <selenium>0</selenium>
+    <protein>0.28</protein>
+    <lut_zea>0</lut_zea>
+    <beta_carot>193</beta_carot>
+    <refuse_pct>0</refuse_pct>
+    <riboflavin>0.005</riboflavin>
+    <lipid_tot>99.48</lipid_tot>
+    <vit_a_iu>3069</vit_a_iu>
+    <vit_c>0</vit_c>
+    <zinc>0.01</zinc>
+    <beta_crypt>0</beta_crypt>
+    <vit_a_rae>840</vit_a_rae>
+    <carbohydrt>0</carbohydrt>
+    <lycopene>0</lycopene>
+    <folate_tot>0</folate_tot>
+    <magnesium>0</magnesium>
+    <food_name>BUTTER OIL,ANHYDROUS</food_name>
+    <sugar_tot>0</sugar_tot>
+    <folic_acid>0</folic_acid>
+    <energ_kcal>876</energ_kcal>
+    <niacin>0.003</niacin>
+    <ash>0</ash>
+    <calcium>4</calcium>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <folate_dfe>0</folate_dfe>
+    <iron>0</iron>
+    <potassium>5</potassium>
+    <cholestrl>256</cholestrl>
+    <manganese>0</manganese>
+    <vivit_d_iu>73</vivit_d_iu>
+    <fa_sat>61.924</fa_sat>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry4">
+    <folate_tot>36</folate_tot>
+    <magnesium>23</magnesium>
+    <lut_zea>0</lut_zea>
+    <folic_acid>0</folic_acid>
+    <calcium>528</calcium>
+    <vit_c>0</vit_c>
+    <vit_a_iu>763</vit_a_iu>
+    <vivit_d_iu>21</vivit_d_iu>
+    <lycopene>0</lycopene>
+    <protein>21.4</protein>
+    <thiamin>0.029</thiamin>
+    <sugar_tot>0.5</sugar_tot>
+    <beta_carot>74</beta_carot>
+    <retinol>192</retinol>
+    <energ_kcal>353</energ_kcal>
+    <fa_mono>7.778</fa_mono>
+    <gmwt_2>17.3</gmwt_2>
+    <riboflavin>0.382</riboflavin>
+    <vit_a_rae>198</vit_a_rae>
+    <folate_dfe>36</folate_dfe>
+    <cholestrl>75</cholestrl>
+    <food_folate>36</food_folate>
+    <potassium>256</potassium>
+    <ash>5.11</ash>
+    <alpha_carot>0</alpha_carot>
+    <sodium>1395</sodium>
+    <vit_b6>0.166</vit_b6>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <choline_tot>15.4</choline_tot>
+    <gmwt_desc2>1 cubic inch</gmwt_desc2>
+    <lipid_tot>28.74</lipid_tot>
+    <niacin>1.016</niacin>
+    <iron>0.31</iron>
+    <fa_sat>18.669</fa_sat>
+    <food_name>CHEESE</food_name>
+    <vit_k>2.4</vit_k>
+    <phosphorus>387</phosphorus>
+    <fiber_td>0</fiber_td>
+    <vit_e>0.25</vit_e>
+    <gmwt_desc1>1 oz</gmwt_desc1>
+    <vit_b12>1.22</vit_b12>
+    <zinc>2.66</zinc>
+    <gmwt_1>28.35</gmwt_1>
+    <selenium>14.5</selenium>
+    <carbohydrt>2.34</carbohydrt>
+    <refuse_pct>0</refuse_pct>
+    <fa_poly>0.8</fa_poly>
+    <water>42.41</water>
+    <manganese>0.009</manganese>
+    <copper>0.04</copper>
+    <panto_acid>1.729</panto_acid>
+    <beta_crypt>0</beta_crypt>
+    <vit_d_mcg>0.5</vit_d_mcg>
+    <ndb_no>01004</ndb_no>
+  </rdf:Description>
+  
+<!-- schema property definition -->
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#sugar_tot">
+    <rdfs:label>Total sugars (g/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#panto_acid">
+    <rdfs:label>Pantothenic acid (mg/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#vit_a_iu">
+    <rdfs:label>Vitamin A (IU/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#beta_crypt">
+    <rdfs:label>Beta-cryptoxanthin (?g/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#fiber_td">
+    <rdfs:label>Total dietary fiber (g/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#gmwt_desc1">
+    <rdfs:label>Description of household weight number 1.</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#copper">
+    <rdfs:label>Copper (mg/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#folate_tot">
+    <rdfs:label>Folate, total (?g/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#refuse_pct">
+    <rdfs:label>Percent refuse. For a description of refuse, link to the Food Description file.</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#folate_dfe">
+    <rdfs:label>Folate (?g dietary folate equivalents/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#vit_b12">
+    <rdfs:label>Vitamin B12 (?g/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#choline_tot">
+    <rdfs:label>Choline, total (mg/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#water">
+    <rdfs:label>Water (g/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#fa_poly">
+    <rdfs:label>Polyunsaturated fatty acids (g/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#thiamin">
+    <rdfs:label>Thiamin (mg/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#folic_acid">
+    <rdfs:label>Folic acid (?g/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#calcium">
+    <rdfs:label>Calcium (mg/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#vit_e">
+    <rdfs:label>Vitamin E (alpha-tocopherol) (mg/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#phosphorus">
+    <rdfs:label>Phosphorus (mg/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#alpha_carot">
+    <rdfs:label>Alpha-carotene (?g/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#lipid_tot">
+    <rdfs:label>Total lipid (fat)(g/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#sodium">
+    <rdfs:label>Sodium (mg/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#gmwt_2">
+    <rdfs:label>Second household weight for this item from the Weight file. For the complete list and description of the measure, link to the Weight file.</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#fa_sat">
+    <rdfs:label>Saturated fatty acid (g/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#lut_zea">
+    <rdfs:label>Lutein+zeazanthin (?g/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#potassium">
+    <rdfs:label>Potassium (mg/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#protein">
+    <rdfs:label>Protein (g/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#manganese">
+    <rdfs:label>Manganese (mg/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#cholestrl">
+    <rdfs:label>Cholesterol (mg/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#zinc">
+    <rdfs:label>Zinc (mg/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#vivit_d_iu">
+    <rdfs:label>ViVit_D_IU</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#food_name">
+    <rdfs:label>60-character abbreviated description of food item. For a 200-character description and other descriptive information, link to the Food Description file.</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#riboflavin">
+    <rdfs:label>Riboflavin (mg/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#lycopene">
+    <rdfs:label>Lycopene (?g/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#vit_k">
+    <rdfs:label>Vitamin K (phylloquinone) (?g/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#gmwt_1">
+    <rdfs:label>First household weight for this item from the Weight file. For the complete list and description of the measure, link to the Weight file.</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#niacin">
+    <rdfs:label>Niacin (mg/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#ndb_no">
+    <rdfs:label>5-digit Nutrient Databank number. Primary key for the Abbreviated file.</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#carbohydrt">
+    <rdfs:label>Carbohydrate, by difference (g/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#beta_carot">
+    <rdfs:label>Beta-carotene (?g/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#fa_mono">
+    <rdfs:label>Monounsaturated fatty acids (g/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#energ_kcal">
+    <rdfs:label>Food energy (kcal/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#vit_d_mcg">
+    <rdfs:label>Vitamin D (?g/100 g))</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#vit_c">
+    <rdfs:label>Vitamin C (mg/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#magnesium">
+    <rdfs:label>Magnesium (mg/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#retinol">
+    <rdfs:label>Retinol (?g/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#selenium">
+    <rdfs:label>Selenium (?g/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#vit_a_rae">
+    <rdfs:label>Vitamin A (?g retinol activity equivalents/100g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#food_folate">
+    <rdfs:label>Food folate (?g/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#gmwt_desc2">
+    <rdfs:label>Description of household weight number 2.</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#vit_b6">
+    <rdfs:label>Vitamin B6 (mg/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#iron">
+    <rdfs:label>Iron (mg/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#ash">
+    <rdfs:label>Ash (g/100 g)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+<!-- dataset metadata: property usage -->
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf">
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#vit_d_mcg"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#selenium"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#potassium"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#vivit_d_iu"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#zinc"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#magnesium"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#vit_a_rae"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#niacin"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#vit_k"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#cholestrl"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#beta_crypt"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#fa_poly"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#vit_b6"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#energ_kcal"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#sugar_tot"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#lut_zea"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#ndb_no"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#fiber_td"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#food_name"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#carbohydrt"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#copper"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#panto_acid"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#vit_a_iu"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#folate_dfe"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#choline_tot"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#gmwt_desc2"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#vit_e"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#phosphorus"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#food_folate"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#retinol"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#calcium"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#gmwt_desc1"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#riboflavin"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#gmwt_1"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#sodium"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#lycopene"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#vit_c"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#beta_carot"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#folic_acid"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#iron"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#fa_mono"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#ash"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#fa_sat"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#folate_tot"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#manganese"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#thiamin"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#vit_b12"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#protein"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#lipid_tot"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#gmwt_2"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#water"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#refuse_pct"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#alpha_carot"/>
+  </rdf:Description>
+<!-- dataset metadata: provenance and statistics -->
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf">
+    <dgtwc:number_of_triples rdf:datatype="http://www.w3.org/2001/XMLSchema#int">339953</dgtwc:number_of_triples>
+    <rdfs:isDefinedBy rdf:resource="http://www.data.gov/semantic/data/alpha/92/dataset-92.rdf#entry1458"/>
+    <foaf:homepage rdf:resource="http://www.data.gov/details/1458"/>
+    <dcterms:source rdf:resource="http://www.ars.usda.gov/SP2UserFiles/Place/12354500/Data/SR22/dnload/sr22abxl.ZIP"/>
+    <dgtwc:number_of_entries rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7539</dgtwc:number_of_entries>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#Dataset"/>
+    <dgtwc:number_of_properties rdf:datatype="http://www.w3.org/2001/XMLSchema#int">53</dgtwc:number_of_properties>
+    <rdfs:comment>The RDF version of this dataset is contributed by Tetherless World Constellation at Rensselaer Polytechnic Institute (http://tw.rpi.edu). generated by csv2rdf CSV2RDF (v1.1, 2009-01-28). http://data-gov.tw.rpi.edu/wiki/Source_Code_of_Data.gov_Wiki#Source_Code_of_Demos_and_Applications. </rdfs:comment>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+</rdf:RDF>
