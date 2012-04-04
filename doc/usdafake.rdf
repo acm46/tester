@@ -44,7 +44,7 @@
     <folate_tot>3</folate_tot>
     <phosphorus>24</phosphorus>
     <sugar_tot>0.06</sugar_tot>
-    <food_name>BUTTER,WITH SALT</food_name>
+    <rdf:food_name>BUTTER,WITH SALT</rdf:food_name>
     <alpha_carot>0</alpha_carot>
     <manganese>0</manganese>
     <gmwt_1>227</gmwt_1>
@@ -86,7 +86,7 @@
     <zinc>0.05</zinc>
     <beta_carot>158</beta_carot>
     <retinol>671</retinol>
-    <food_name>BUTTER,WHIPPED,WITH SALT</food_name>
+    <rdf:food_name>BUTTER,WHIPPED,WITH SALT</rdf:food_name>
     <folate_dfe>3</folate_dfe>
     <beta_crypt>0</beta_crypt>
     <calcium>24</calcium>
@@ -161,7 +161,7 @@
     <lycopene>0</lycopene>
     <folate_tot>0</folate_tot>
     <magnesium>0</magnesium>
-    <food_name>BUTTER OIL,ANHYDROUS</food_name>
+    <rdf:food_name>BUTTER OIL,ANHYDROUS</rdf:food_name>
     <sugar_tot>0</sugar_tot>
     <folic_acid>0</folic_acid>
     <energ_kcal>876</energ_kcal>
@@ -212,7 +212,7 @@
     <niacin>1.016</niacin>
     <iron>0.31</iron>
     <fa_sat>18.669</fa_sat>
-    <food_name>CHEESE</food_name>
+    <rdf:food_name>CHEESE</rdf:food_name>
     <vit_k>2.4</vit_k>
     <phosphorus>387</phosphorus>
     <fiber_td>0</fiber_td>
@@ -359,7 +359,7 @@
     <rdfs:label>ViVit_D_IU</rdfs:label>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#food_name">
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#rdf:food_name">
     <rdfs:label>60-character abbreviated description of food item. For a 200-character description and other descriptive information, link to the Food Description file.</rdfs:label>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
   </rdf:Description>
@@ -467,7 +467,7 @@
     <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#lut_zea"/>
     <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#ndb_no"/>
     <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#fiber_td"/>
-    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#food_name"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#rdf:food_name"/>
     <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#carbohydrt"/>
     <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#copper"/>
     <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1458/dataset-1458.rdf#panto_acid"/>

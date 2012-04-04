@@ -1,0 +1,5 @@
+list of gems:
+
+nokogiri
+lib-xml
+twitter-bootstrap

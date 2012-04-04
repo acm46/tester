@@ -1,0 +1,14 @@
+<p>Your email address is <%=current_user.email %></p>
+<p>You are tracking <%= current_user.foods.length %> food(s). <p/>
+<% if current_user.foods.length > 0 %>
+	<p>Your food(s) are: </p>
+	<table>
+	<% current_user.foods.each do |food| %>
+	<tr>
+		<td><%= link_to food.food_name, :controller => "foods", :action=> "view", :food_id => food.id %> </p></td>
+		<td><%= link_to "Stop tracking", :action => "delete_food", :food_id => food.id %></td>
+	</tr>
+
+	<% end %>
+	</table>
+<% end %>

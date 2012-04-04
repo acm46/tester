@@ -1,14 +1,33 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Tester</title>
+  <title>MyBites</title>
   <%= stylesheet_link_tag    "application", :media => "all" %>
   <%= javascript_include_tag "application" %>
   <%= csrf_meta_tags %>
+  <style>
+  body {background-image: url('/assets/rough_diagonal.png');}
+  </style>
 </head>
 <body>
-
+<div class="navbar navbar-fixed-top">
+	<div class="navbar-inner">
+		<div class="container">
+			<a class="brand" href="/">MyBites</a>
+			<ul class="nav pull-right">
+				<% if current_user %>
+					<li><a href="/profile">Welcome, <%=current_user.email %>!</a></li>
+					<li><%= link_to "Log Out", log_out_path %></li>
+				<% else %>
+					<li><a href="/users/new">Sign Up</a></li>
+					<li><%= link_to "Log In", log_in_path %></li>
+				<% end %>
+			</ul>
+		</div>
+	</div>
+</div>	
+<div class="container">
 <%= yield %>
-
+</div>
 </body>
 </html>

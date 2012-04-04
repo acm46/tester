@@ -1,0 +1,53 @@
+<!-- <div class="hero-unit"> -->
+	<div class="row">
+		<div class="span12" align="center"><h1>MyBites</h1></div>
+	</div>
+	<div class="row">
+		<div class="span12" align="center"><h2>Start Tracking Your Nutrition Now!</h2></div>
+	</div>
+	<%= form_tag('/foods/view', :method => "get") do %>
+	  <br /><br /><br />
+	  <div align="center">
+	  	<%= text_field_tag :query, nil, :class => "input-xlarge search-query-home bigger-search", :placeholder => "Find your food...", :'data-provide' => "typeahead", :autocomplete => "off" %>
+	  	<%= submit_tag "Search", :class => "btn btn-primary btn-large", :id => "search-bar" %>
+	  </div>
+	<% end %>
+<!-- </div> -->
+
+<div class="row">
+	<div class="span4">
+		<ul class="thumbnails">
+			<div class="span4 offset4">
+				<li>
+					<a href="#" class="thumbnail"><img src="http://placehold.it/360x268" alt=""></a>
+				</li>
+			</div>
+		</ul>
+	</div>
+</div>
+
+<script> 
+$(document).ready(function(){
+	$('#query').typeahead({ // Typeahead for Autocomplete
+		source: <%= @food_names.to_json.html_safe %>,
+		items: 10
+	}); 
+
+	$('#search-bar').click(function(){ // Error Messages
+		$('.error').hide();
+		var hasError = false;
+		var knownBase = <%= @food_names.to_json.html_safe %>;
+		var searchVal = $('#query').val();
+		if(searchVal == ''){
+			$('#search-bar').after('<div class="error">Don\'t leave this blank.</div>');
+			hasError = true;
+		}
+		else if(knownBase.indexOf(searchVal) <= -1){
+			$('#search-bar').after('<div class="error">Please choose a food item from the autocomplete menu.</div>');
+			hasError = true;			
+		}
+		$('.error').css({'color':'red', 'font-weight':'bold'});		
+		if (hasError == true) {return false;}
+	});
+});
+</script>

@@ -1,6 +1,25 @@
 Tester::Application.routes.draw do
+  get "foods/search"
+
+  get "foods/view"
+
+  get "log_out" => "sessions#destroy", :as => "log_out"
+  get "log_in" => "sessions#new", :as => "log_in"
+
+  get "profile" => "users#view", :as => "profile"
+
+  get "users/new"
+  get "users/view"
+
   get "goods/view"
   get "goods/search"
+
+  get "users/new_food"
+  get "users/delete_food"
+
+  root :to => 'foods#search'
+  resources :users
+  resources :sessions
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

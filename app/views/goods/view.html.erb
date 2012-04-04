@@ -1,16 +1,35 @@
-<table>
-	<tr>
-		<td><strong>Food Property</strong></td>
-		<td><strong>Numeric Value</strong></td>
-	</tr>
-	<% if (@result != nil) %>
-		<% @result.each do |aspect| %>
-			<% if (aspect.name != "text" && aspect.name != "type") %>
-				<tr>
-					<td><%= aspect.name %></td>
-					<td><%= aspect.content %></td>
-				</tr>
+<div class="row">
+	<div class="span4">
+		<h2><%= link_to "<-- Search for more foods", :action => "search" %></h2>
+	</div>
+	<% if current_user %>
+		<div class="span4">
+			<h2><%= link_to "Track", :controller => "users", :action => "new_food" %> this food?</h2>
+		</div>
+	<% else %>
+		<div class="span4">
+				<h2><a href="/log_in">Log in</a> to track this food item!</h2>
+		</div>
+	<% end %>
+</div>
+
+<table class="table table-striped">
+	<thead>
+		<tr>
+			<th><h3>Food Property</h3></th>
+			<th><h3>Numeric Value</h3></th>
+		</tr>
+	</thead>
+	<tbody>
+		<% if (@items != nil) %>
+			<% @items.each do |aspect| %>
+				<% if (aspect.name != "text" && aspect.name != "type") %>
+					<tr>
+						<td><%= aspect.name %></td>
+						<td><%= aspect.content %></td>
+					</tr>
+				<% end %>
 			<% end %>
 		<% end %>
-	<% end %>
+	</tbody>
 </table>
